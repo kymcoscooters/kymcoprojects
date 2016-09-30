@@ -1,0 +1,5 @@
+public class morjens {
+  public static void {
+    System.out.PrintLn("Morjens världen");
+  }
+}
